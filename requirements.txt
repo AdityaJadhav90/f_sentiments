@@ -1,12 +1,6 @@
 flask==2.3.3
 transformers==4.44.2
 torch==2.9.0
-torchvision==0.20.0
-torchaudio==2.9.0
-flwr==1.9.0
-pandas==2.2.3
+torchvision==0.24.0
 matplotlib==3.9.2
-scikit-learn==1.5.2
-tqdm==4.66.5
-numpy==1.26.4
-gunicorn==21.2.0
+flwr==1.9.0
